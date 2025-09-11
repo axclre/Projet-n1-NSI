@@ -21,6 +21,9 @@ Ajout d'un cheat code sur la **première partie** permettant de donner directeme
 Ajout d'un faux cheat code sur le **mode difficile** retirant 2 essais à l'user s'il essaie de l'utiliser.  
 Fix des conditions de l'input **hardmode** qui affichaient "Merci d'avoir joué quand même !" peut importe les circonstances.
 
+### Dimanche 7 Septembre :
+Ajout de comments sur la partie du mode difficile
+
 
 
 
